@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218" height="218" viewBox="0 0 218 218">
+    <defs>
+        <radialGradient id="radial-gradient" cx="0.328" cy="0.29" r="0.5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9cdeb"/>
+            <stop offset="1" stop-color="#f864c7"/>
+        </radialGradient>
+        <filter id="Path_1137" x="0" y="0" width="218" height="218" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="_02" data-name="02" transform="translate(-315.146 -296.146)">
+        <g transform="matrix(1, 0, 0, 1, 315.15, 296.15)" filter="url(#Path_1137)">
+            <path id="Path_1137-2" data-name="Path 1137" d="M100,0A100,100,0,1,1,0,100,100,100,0,0,1,100,0Z" transform="translate(9 6)" fill="url(#radial-gradient)"/>
+        </g>
+        <text id="給与明細" transform="translate(424.146 448.146)" fill="#fff" font-size="22" font-family="PingFangSC-Regular, PingFang SC"><tspan x="-44" y="0">給与明細</tspan></text>
+        <g id="menu-給与明細-white" transform="translate(400.146 352.146)">
+            <rect id="Rectangle_513" data-name="Rectangle 513" width="72" height="72" transform="translate(-12 -2)" fill="rgba(255,255,255,0)"/>
+            <g id="Group_1181" data-name="Group 1181" transform="translate(-0.007 35)">
+                <path id="Path_858" data-name="Path 858" d="M0,48V0H27l9,10.5h0V48ZM3,3V45.15H33V13.5H22.65V3Zm22.5.45V10.5h6Z" transform="translate(0.008 17) rotate(-90)" fill="#fff"/>
+                <text id="_" data-name="￥" transform="translate(9.006 12)" fill="#fff" font-size="30" font-family="PingFangSC-Regular, PingFang SC"><tspan x="0" y="0">￥</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>

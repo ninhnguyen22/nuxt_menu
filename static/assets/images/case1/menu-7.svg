@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218" height="218" viewBox="0 0 218 218">
+    <defs>
+        <radialGradient id="radial-gradient" cx="0.27" cy="0.284" r="0.5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#bddece"/>
+            <stop offset="1" stop-color="#27c677"/>
+        </radialGradient>
+        <filter id="Path_1145" x="0" y="0" width="218" height="218" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="_08" data-name="08" transform="translate(-315.146 -296.146)">
+        <g transform="matrix(1, 0, 0, 1, 315.15, 296.15)" filter="url(#Path_1145)">
+            <path id="Path_1145-2" data-name="Path 1145" d="M100,0A100,100,0,1,1,0,100,100,100,0,0,1,100,0Z" transform="translate(9 6)" fill="url(#radial-gradient)"/>
+        </g>
+        <text id="エクスピュール_接客資料" data-name="エクスピュール
+接客資料" transform="translate(424.146 432.146)" fill="#fff" font-size="22" font-family="PingFangSC-Regular, PingFang SC"><tspan x="-77" y="0">エクスピュール</tspan><tspan y="0" font-family="Helvetica"></tspan><tspan x="-44" y="32">接客資料</tspan></text>
+        <g id="menu-エクスピュール接客資料-white" transform="translate(-46.754 -283.654)">
+            <rect id="Rectangle_515" data-name="Rectangle 515" width="72" height="72" transform="translate(434.9 617.801)" fill="rgba(255,255,255,0)"/>
+            <path id="Union_40" data-name="Union 40" d="M20892.771,20463h.006Zm-19.773,0v-48h24.779l8.449,10.5v11.193a10.819,10.819,0,0,0-2.766-1.422v-6.77h-9.7V20418h-17.994v41.992h16.566a19.784,19.784,0,0,0,.436,3Zm23.541-37.5h5.395l-5.395-7.043Zm11.619,36.2v-6.465a5.675,5.675,0,0,0-11.346,0v6.465h-1.979v-6.465a7.653,7.653,0,0,1,15.3,0v6.465Zm-15.623-9.2h-11.225v-3h11.439c-.047.943-.131,1.973-.209,2.971v.031Zm4.676-10.717a4.878,4.878,0,1,1,9.756,0,4.786,4.786,0,0,1-4.875,4.881A4.867,4.867,0,0,1,20897.211,20441.779Zm2.109,0a2.9,2.9,0,1,0,2.9-2.9A2.93,2.93,0,0,0,20899.32,20441.779Zm-18.01,3.217v-3h12.354a18.352,18.352,0,0,0-.666,3Zm0-7.5v-3h16.609v1.322a8.244,8.244,0,0,0-1.889,1.674v.006Z" transform="translate(-20421.1 -19785.197)" fill="#fff"/>
+        </g>
+    </g>
+</svg>

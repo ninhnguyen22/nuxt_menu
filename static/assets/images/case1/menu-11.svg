@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218" height="218" viewBox="0 0 218 218">
+    <defs>
+        <radialGradient id="radial-gradient" cx="0.244" cy="0.232" r="0.405" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f5dcc0"/>
+            <stop offset="1" stop-color="#f89c34"/>
+        </radialGradient>
+        <filter id="Path_1148" x="0" y="0" width="218" height="218" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="_12" data-name="12" transform="translate(-315.146 -296.146)">
+        <g transform="matrix(1, 0, 0, 1, 315.15, 296.15)" filter="url(#Path_1148)">
+            <path id="Path_1148-2" data-name="Path 1148" d="M100,0A100,100,0,1,1,0,100,100,100,0,0,1,100,0Z" transform="translate(9 6)" fill="url(#radial-gradient)"/>
+        </g>
+        <text id="取引先情報" transform="translate(424.146 448.146)" fill="#fff" font-size="22" font-family="PingFangSC-Regular, PingFang SC"><tspan x="-55" y="0">取引先情報</tspan></text>
+        <g id="menu-取引先情報-white" transform="translate(-46.754 -267.654)">
+            <rect id="Rectangle_515" data-name="Rectangle 515" width="72" height="72" transform="translate(434.9 617.801)" fill="rgba(255,255,255,0)"/>
+            <path id="Path_1120" data-name="Path 1120" d="M68,245.977V242.9H98v3.078Zm0-22.516H98v3.078H68Zm0-19.439H98V207.1H68ZM56,250.836a6.5,6.5,0,1,1,6-6.48A6.272,6.272,0,0,1,56,250.836Zm0-10.367a3.9,3.9,0,1,0,3.6,3.888A3.706,3.706,0,0,0,56,240.469Zm0-9.071a6.5,6.5,0,1,1,6-6.48A6.272,6.272,0,0,1,56,231.4Zm0-10.367a3.9,3.9,0,1,0,3.6,3.888A3.706,3.706,0,0,0,56,221.03Zm0-9.071a6.5,6.5,0,1,1,6-6.48A6.272,6.272,0,0,1,56,211.959Zm0-10.367a3.9,3.9,0,1,0,3.6,3.888A3.706,3.706,0,0,0,56,201.592Z" transform="translate(396.9 428.801)" fill="#fff"/>
+        </g>
+    </g>
+</svg>

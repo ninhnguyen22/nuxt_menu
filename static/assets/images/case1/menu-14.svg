@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218" height="218" viewBox="0 0 218 218">
+    <defs>
+        <radialGradient id="radial-gradient" cx="0.244" cy="0.232" r="0.405" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f6dcdd"/>
+            <stop offset="1" stop-color="#f14349"/>
+        </radialGradient>
+        <filter id="Path_1151" x="0" y="0" width="218" height="218" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="_15" data-name="15" transform="translate(-315.146 -296.146)">
+        <g transform="matrix(1, 0, 0, 1, 315.15, 296.15)" filter="url(#Path_1151)">
+            <path id="Path_1151-2" data-name="Path 1151" d="M100,0A100,100,0,1,1,0,100,100,100,0,0,1,100,0Z" transform="translate(9 6)" fill="url(#radial-gradient)"/>
+        </g>
+        <text id="マーケティング_情報" data-name="マーケティング
+情報" transform="translate(424.146 432.146)" fill="#fff" font-size="22" font-family="PingFangSC-Regular, PingFang SC"><tspan x="-77" y="0">マーケティング</tspan><tspan y="0" font-family="Helvetica"></tspan><tspan x="-22" y="32">情報</tspan></text>
+        <g id="menu-マーケティング情報-white" transform="translate(-46.754 -283.654)">
+            <rect id="Rectangle_515" data-name="Rectangle 515" width="72" height="72" transform="translate(434.9 617.801)" fill="rgba(255,255,255,0)"/>
+            <path id="Path_1123" data-name="Path 1123" d="M257.12,62.9a2.188,2.188,0,0,0-2.22,2.22V108.68a2.188,2.188,0,0,0,2.22,2.22H300.68a2.188,2.188,0,0,0,2.219-2.22V65.12a2.188,2.188,0,0,0-2.219-2.22Zm37.734,21.919h3.607v4.162h-3.607Zm3.607-4.162h-3.607V76.5h3.607Zm-7.769,4.162H266.553V67.339h24.139Zm-31.353,0h3.052v4.162h-3.052Zm3.052-4.162h-3.052V76.5h3.052Zm-3.052,12.486h3.052V97.3h-3.052Zm7.214-4.162h24.139v17.48H266.553Zm28.3,4.162h3.607V97.3h-3.607Zm3.607-20.809h-3.607V67.339h3.607Zm-36.069-5.272v4.994h-3.052V67.062Zm-3.052,34.4h3.052v4.994h-3.052Zm35.514,4.994v-4.994h3.607v4.994Z" transform="translate(192 566.9)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+    </g>
+</svg>

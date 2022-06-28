@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218" height="218" viewBox="0 0 218 218">
+    <defs>
+        <radialGradient id="radial-gradient" cx="0.244" cy="0.232" r="0.405" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f2c8b7"/>
+            <stop offset="1" stop-color="#e36c3c"/>
+        </radialGradient>
+        <filter id="Path_1149" x="0" y="0" width="218" height="218" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="_13" data-name="13" transform="translate(-315.146 -296.146)">
+        <g transform="matrix(1, 0, 0, 1, 315.15, 296.15)" filter="url(#Path_1149)">
+            <path id="Path_1149-2" data-name="Path 1149" d="M100,0A100,100,0,1,1,0,100,100,100,0,0,1,100,0Z" transform="translate(9 6)" fill="url(#radial-gradient)"/>
+        </g>
+        <text id="業務ルール" transform="translate(424.146 448.146)" fill="#fff" font-size="22" font-family="PingFangSC-Regular, PingFang SC"><tspan x="-55" y="0">業務ルール</tspan></text>
+        <g id="menu-業務ルール-white" transform="translate(-46.754 -267.654)">
+            <rect id="Rectangle_515" data-name="Rectangle 515" width="72" height="72" transform="translate(434.9 617.801)" fill="rgba(255,255,255,0)"/>
+            <path id="Path_1121" data-name="Path 1121" d="M50,306.15,64.85,321,98,276l-3-3L64.4,313.5,53,302.85Z" transform="translate(396.9 356.801)" fill="#fff"/>
+        </g>
+    </g>
+</svg>
